@@ -1,0 +1,3 @@
+com\boot\init\beans\Motor.class
+com\boot\init\beans\FuelTank.class
+com\boot\init\BootInitApplication.class
