@@ -1,0 +1,2 @@
+boot.App=org.springframework.stereotype.Component
+boot.GreetingController=org.springframework.stereotype.Component

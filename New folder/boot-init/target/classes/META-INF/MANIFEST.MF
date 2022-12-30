@@ -1,6 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Title: boot-init
-Implementation-Version: 1.O.O-SNAPSHOT
-Build-Jdk-Spec: 1.8
-Created-By: Maven Integration for Eclipse
-
